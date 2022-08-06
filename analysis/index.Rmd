@@ -56,3 +56,5 @@ fviz_pca_ind(pca,
              addEllipses = TRUE # Concentration ellipses
              )
 ```
+
+How is everything?
